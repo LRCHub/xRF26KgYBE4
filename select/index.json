@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "雨うつつ",
+  "base_artist": "HACHI",
+  "createdAt": "2026-02-11T05:24:57.655532Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "雨うつつ",
+      "artist": "HACHI",
+      "has_synced": false,
+      "path": "select/pl_01_雨うつつ_HACHI.txt"
+    }
+  ]
+}
